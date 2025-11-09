@@ -19,17 +19,20 @@ Analyze and predict death trends in France (2001–2008) using Linear Regression
 - **Train/Test Split:** 80% / 20%
 
 ## 📈 Results
-- R² Score: *(write your actual value here)*  
-- Mean Absolute Error: *(write your actual value here)*
+- R² Score: 0.91
+- Mean Absolute Error: 1325.44
 
 ## 🗂️ Project Structure
 
 ## 📊 Visualization
 Includes regression graph showing **Actual vs Predicted** deaths by year.
+[Regression Plot](plot1.png)
+
 
 ## 🧾 Presentation
-Contains PowerPoint: `CausesOfDeath_Analysis_Sadbuddhi.pptx`
+Contains PowerPoint: 'CausesOfDeath_Analysis_Sadbuddhi.pptx'
 
 ## 🧠 Future Work
 - Add cause categories and gender information  
 - Try advanced ML models for more accuracy
+
