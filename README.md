@@ -26,7 +26,7 @@ Analyze and predict death trends in France (2001–2008) using Linear Regression
 
 ## 📊 Visualization
 Includes regression graph showing **Actual vs Predicted** deaths by year.
-[Regression Plot](plot1.png)
+[Regression Plot](plot.png)
 
 ## 🧾 Presentation
 You can [📥 download the PowerPoint presentation here](https://github.com/sadbuddhib-netizen/ml/raw/main/CausesOfDeath_Analysis_Sadbuddhi.pptx).
@@ -34,5 +34,6 @@ You can [📥 download the PowerPoint presentation here](https://github.com/sadb
 ## 🧠 Future Work
 - Add cause categories and gender information  
 - Try advanced ML models for more accuracy
+
 
 
